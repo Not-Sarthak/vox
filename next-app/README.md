@@ -1,0 +1,11 @@
+sendEmail
+getActiveBids
+getTicketbyId
+recentlyAdded
+getShows
+getEventDetailsById
+getEventDetails
+getShowsByEventId
+getShowsByName
+getTickets
+addTicket
